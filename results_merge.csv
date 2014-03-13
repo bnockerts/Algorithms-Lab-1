@@ -1,0 +1,10 @@
+Trial Type,Data Points,Trial 1,Average
+worst,100,=AVERAGE(C2:C2)
+worst,1000,=AVERAGE(C3:C3)
+
+best,100,=AVERAGE(C5:C5)
+best,1000,=AVERAGE(C6:C6)
+
+average,100,0.279864,=AVERAGE(C8:C8)
+average,1000,2.0379899999999997,=AVERAGE(C9:C9)
+
